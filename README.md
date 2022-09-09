@@ -29,7 +29,7 @@ Please clone this repository, edit README.md to answer the questions, and fill u
 See [cpp-template](https://github.com/ourarash/cpp-template) for help on installing bazel and debugging.
 
 # Question 1 to 5
-Coding question: please refer to [file](/file).
+Coding question: please refer to [files](/files).
 
 # Question 6
 Please write down the worst case runtime complexity of the functions that you implement in this README file. 
