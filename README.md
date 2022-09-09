@@ -11,7 +11,7 @@ Please clone this repository, edit README.md to answer the questions, and fill u
 - For coding questions unless specified, you should add unit tests to the student_test.cc.
   We will clone and test your repo using your tests and some other tests (that are not provided). Your code should pass all of them.
 - For submission, please push your answers to Github before the deadline.
-- Deadline: Sep 12 by 12:00 pm (noon)
+- Deadline: Sep 19 by 12:00 pm (noon)
 - Rubrics:
   
 | Question | Points |
